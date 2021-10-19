@@ -1,6 +1,6 @@
-### Hi there 👋 I'm Eason Wong
+### Hi there 👋
 
-I'm a game lover from Hong Kong, and I'm currenly learning to create games by Unity. All my games will be in my repository. 
+ I'm Eason Wong from Hong Kong, and I'm currenly working on creating games by Unity. 
 
 Skills: C/C++, C#, Java, Python, MIPS
 
