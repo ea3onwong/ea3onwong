@@ -1,4 +1,4 @@
-<h1> Hi there 👋 I'm Eason Wong </h1>
+<h2 align="center"> Hi there 👋 I'm Eason Wong </h2>
 
 <h3 align="center"> Just a place to show you my games here, nothing else..  </h3> 
 
