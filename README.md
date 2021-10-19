@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi there 👋 I'm Eason Wong
+
+I'm a game lover from Hong Kong, and I'm currenly learning to create games by Unity. All my games will be in my repository. 
+
+Skills: C/C++, C#, Java, Python, MIPS
 
 <!--
 **wong3ason/wong3ason** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
