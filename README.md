@@ -1,6 +1,6 @@
 <h2 align="center"> Hi there 👋 I'm Eason Wong 👹👺🤡 </h2>
 
-<h4> It's a boring github page, which contains only my 🎮 👾 🤖 🎲 games development progress, and nothing else </h4> 
+<h4> It's a boring github page, which contains only my 🎮 👾 🤖 🎲 games development progress, and nothing else... </h4> 
 
 
 ![image](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)
