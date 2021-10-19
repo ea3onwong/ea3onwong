@@ -1,4 +1,4 @@
-<h2 align="center"> I'm Eason Wong 👹👺🤡 </h2>
+<h2 align="center"> Hi there 👋 I'm Eason Wong 👹👺🤡 </h2>
 
 <h4> It's a boring github page, which contains only my 🎮 👾 🤖 🎲 games development progress, and nothing else 😅</h4> 
 
