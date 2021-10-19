@@ -1,4 +1,4 @@
-<h1 align="center"> Hi there 👋 I'm Eason Wong </h1>
+<h1> Hi there 👋 I'm Eason Wong </h1>
 <h3 align="center"> GAME CENTER  </h3>
 
 ![image](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)
