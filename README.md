@@ -13,7 +13,7 @@
 
 
 
-### 📩 &nbsp;**Contact with me:** 
+### 📩 &nbsp;**Contact:** 
 - Email: wong.eason@outlook.com<br/>
 
 ### 🚀 &nbsp;**Skills:** 
