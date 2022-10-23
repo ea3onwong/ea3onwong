@@ -2,7 +2,7 @@
 
 #### 🙋‍ About Me:  
 - 👺 Pronouns: He/Him<br/>
-- 👨‍🎓 Full Time: Computer Science & Economics student<br/>
+- 👨‍🎓 Education: Computer Science & Economics student<br/>
 - 👾 Interest: Game development<br/> 
 
 #### 🚀 Skills: 
