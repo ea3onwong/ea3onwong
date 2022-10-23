@@ -8,7 +8,8 @@
 - 👾 &nbsp; Interests: Coding, Game development, Camping, Hiking <br/> 
 
 ### 🎬 &nbsp; Examples of Work:
-<img src="https://github.com/ea3onwong/LoopMania/blob/main/images/loopMania.gif" width="200">
+<img src="https://github.com/ea3onwong/LoopMania/blob/main/images/loopMania.gif" width="200"> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <img src = "https://github.com/ea3onwong/Dont-Be-Caught/blob/main/Demo/Dont_be_Caught.gif" width="400" height="250">
+
 
 
 
