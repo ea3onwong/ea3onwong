@@ -1,7 +1,7 @@
 <h1 align="center"> Hi there, I'm Eason <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> </h1>
 
 
-### 🙋‍ &nbsp;**About Me:** 
+### 🙋‍♂️ &nbsp;**About Me:** 
 - 👺 &nbsp; Pronouns: **He/Him** <br/>
 - 👨‍🎓 &nbsp; I'm **Computer Science & Economics** student <br/>
 - 💻 &nbsp; I'm looking for **software engineering internship** <br/>
