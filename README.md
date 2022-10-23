@@ -6,7 +6,7 @@
 - 👾 **Interests:** Game development, Camping, Hiking <br/> 
 
 
-### 📩  **Contact with me:** 
+### 📩   **Contact with me:** 
 - **Email:** wong.eason@outlook.com<br/>
 
 ### 🚀  **Skills:** 
