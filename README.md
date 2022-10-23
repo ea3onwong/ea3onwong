@@ -2,10 +2,10 @@
 
 
 ### 🙋‍ &nbsp;**About Me:** 
-- 👺 Pronouns: **He/Him** <br/>
-- 👨‍🎓 I'm **Computer Science & Economics** student <br/>
-- 💻 I'm looking for **software engineering internship** <br/>
-- 👾 Interests: Coding, Game development, Camping, Hiking <br/> 
+- 👺 &nbsp; Pronouns: **He/Him** <br/>
+- 👨‍🎓 &nbsp; I'm **Computer Science & Economics** student <br/>
+- 💻 &nbsp; I'm looking for **software engineering internship** <br/>
+- 👾 &nbsp; Interests: Coding, Game development, Camping, Hiking <br/> 
 
 
 ### 📩 &nbsp;**Contact with me:** 
