@@ -9,7 +9,7 @@
 
 
 ### 📩 &nbsp;**Contact with me:** 
-- ✉️ wong.eason@outlook.com<br/>
+- Email: wong.eason@outlook.com<br/>
 
 ### 🚀 &nbsp;**Skills:** 
 <p align="left">
