@@ -3,7 +3,7 @@
 #### 🙋‍  **About Me:** 
 - 👺 **Pronouns:** He/Him<br/>
 - 👨‍🎓 **Education:** Bachelor degree of Computer Science & Economics <br/>
-- 👾 **Interest:** Game development<br/> 
+- 👾 **Interests:** Game development, Camping, Hiking <br/> 
 
 
 #### 📪  **Contact with me:** 
