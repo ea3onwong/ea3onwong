@@ -1,13 +1,13 @@
 <h3> Hi there, I am Eason Wong 👋 </h3> 
 
-👺 Pronouns: He/Him 
-👨‍🎓 Bachelor of Computer Science & Economics
-👾 Interest: Game development 
+👺 Pronouns: He/Him<br/>
+👨‍🎓 Bachelor of Computer Science & Economics<br/>
+👾 Interest: Game development<br/> 
 
-<h5> Skills: 
+<h4> Skills: 
 <i class="devicon-css3-plain-wordmark colored"></i>
 
 
-<h5> 📫 How to reach me: 
+<h4> 📫 How to reach me: 
 wong.eason@outlook.com 
 
