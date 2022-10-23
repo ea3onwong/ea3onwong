@@ -1,6 +1,6 @@
 ## Hi there, I am Eason Wong 👋 
 
-#### My info:  
+#### About me:  
 - 👺 Pronouns: He/Him<br/>
 - 👨‍🎓 Full Time: Computer Science & Economics student<br/>
 - 👾 Interest: Game development<br/> 
