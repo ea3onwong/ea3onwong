@@ -1,13 +1,13 @@
-# Hi there, I am Eason Wong! 👹👺🤡 
+<h3> Hi there, I am Eason Wong! </h3> <img src="https://camo.githubusercontent.com/e8e7b06ecf583bc040eb60e44eb5b8e0ecc5421320a92929ce21522dbc34c891/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6876524a434c467a6361737252346961377a2f67697068792e676966" />
 
-I'm doing bachelor degree of computer science and economics in Australia. I'm passionate in coding and making games. I have several game projects in my repository (free feel to check out) 🎮 👾 🤖 🎲
+👺 Pronouns: He/Him 
+👨‍🎓 Bachelor of Computer Science & Economics
+👾 Interest: Game development 
 
-## Skills: 
-C / C++ / Python / Java / HTML / CSS / R / Stat / Unity
-
-- 📫 How to reach me: wong.eason@outlook.com 
+<h5> Skills: 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" />  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" />  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" />  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" />  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" />  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original-wordmark.svg" />
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/ea3onwong)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/eason-wong-564aa1227/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/ea3onwong/)  
-
+<h5> 📫 How to reach me: 
+wong.eason@outlook.com 
 
