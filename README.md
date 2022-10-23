@@ -3,7 +3,7 @@
 ### 🙋‍ &nbsp;**About Me:** 
 - 👺 Pronouns: **He/Him** <br/>
 - 👨‍🎓 I'm **Computer Science & Economics** student <br/>
-- 💻 <mark>I'm looking for **software engineering intenrship**</mark> <br/>
+- 💻 <mark style="background-color: #FFFF00">I'm looking for **software engineering intenrship**</mark> <br/>
 - 👾 Interests: Coding, Game development, Camping, Hiking <br/> 
 
 
