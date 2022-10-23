@@ -7,6 +7,10 @@
 - 💻 &nbsp; I'm looking for **software engineering internship** <br/>
 - 👾 &nbsp; Interests: Coding, Game development, Camping, Hiking <br/> 
 
+### 🎬 &nbsp; Examples of Work:
+<img src="https://github.com/ea3onwong/LoopMania/blob/main/images/loopMania.gif" width="200">
+
+
 
 ### 📩 &nbsp;**Contact with me:** 
 - Email: wong.eason@outlook.com<br/>
