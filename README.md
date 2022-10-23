@@ -1,18 +1,11 @@
 <h1 align="center"> Hi there, I'm Eason <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> </h1>
 
 
-
-
 ### 🙋‍ &nbsp;**About Me:** 
 - 👺 Pronouns: **He/Him** <br/>
 - 👨‍🎓 I'm **Computer Science & Economics** student <br/>
-- ```diff 
-- + 💻 I'm looking for **software engineering intenrship** ``` <br/>
+- 💻 I'm looking for **software engineering internship** <br/>
 - 👾 Interests: Coding, Game development, Camping, Hiking <br/> 
-
-
-
-
 
 
 ### 📩 &nbsp;**Contact with me:** 
