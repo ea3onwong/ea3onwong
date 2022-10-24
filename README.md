@@ -29,4 +29,3 @@
 <a href="https://instagram.com/ea3onwong" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ea3onwong" height="30" width="40" /></a>
 </p>
 
-<meta name="google-site-verification" content="Cyg9m4tuQQGnDIgH5__6avnvHfRzKCzDQvc4fG-jZkw" />
