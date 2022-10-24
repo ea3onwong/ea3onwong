@@ -11,11 +11,6 @@
 <img src="https://github.com/ea3onwong/LoopMania/blob/main/images/loopMania.gif" width="200"> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <img src = "https://github.com/ea3onwong/Dont-Be-Caught/blob/main/Demo/Dont_be_Caught.gif" width="400" height="253">
 
 
-
-
-### 📩 &nbsp;**Contact:** 
-- Email: wong.eason@outlook.com<br/>
-
 ### 🚀 &nbsp;**Skills:** 
 <p align="left">
 <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> &nbsp;
