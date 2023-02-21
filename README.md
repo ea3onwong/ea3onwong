@@ -4,7 +4,7 @@
 ### 🙋‍♂️ &nbsp;**About Me:** 
 - 👺 &nbsp; Pronouns: **He/Him** <br/>
 - 👨‍🎓 &nbsp; I'm **Computer Science & Economics** student <br/>
-- 💻 &nbsp; I'm looking for a **software engineering internship❗❗** <br/>
+- 💻 &nbsp; I'm looking for a **software engineering internship❗** <br/>
 
 ### 🚀 &nbsp;**Skills:** 
 <p align="left">
