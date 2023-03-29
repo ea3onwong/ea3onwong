@@ -25,4 +25,6 @@
 <a href="https://instagram.com/ea3onwong" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ea3onwong" height="30" width="40" /></a>
 </p>
 
+Thanks for stopping by my Github page and enduring the horror show that is my code. You're all troopers for making it this far without running away screaming 😱 
+
 
