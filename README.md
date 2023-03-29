@@ -24,6 +24,8 @@
 <a href="https://linkedin.com/in/eason-wong-564aa1227" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="eason-wong-564aa1227" height="30" width="40" /></a> &nbsp;
 <a href="https://instagram.com/ea3onwong" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ea3onwong" height="30" width="40" /></a>
 </p>
+&nbsp;
+&nbsp;
 
 Thanks for stopping by my Github page and enduring the horror show that is my code. You're all troopers for making it this far without running away screaming 😱 
 
