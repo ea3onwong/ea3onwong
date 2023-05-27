@@ -2,9 +2,9 @@
 
 
 ### 🙋‍♂️ &nbsp;**About Me:** 
-- 👺 &nbsp; Pronouns: **He/Him** <br/>
-- 👨‍🎓 &nbsp; I'm **Computer Science & Economics** student <br/>
+- 👨‍🎓 &nbsp; I'm **Computer Science & Economics** undergraduate <br/>
 - 👾 &nbsp; I'm interested in **software engineering and game development❗❗** <br/>
+- 🔗 &nbsp; Here's my <a href="https://ea3onwong.github.io/" target="_blank" rel="noreferrer"> portfolio </a> &nbsp;
 
 ### 🚀 &nbsp;**Skills:** 
 <p align="left">
