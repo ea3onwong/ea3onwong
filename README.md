@@ -3,7 +3,7 @@
 
 ### 🙋‍♂️ &nbsp;**About me** 
 - 👨‍🎓 &nbsp; Currently delving into the fascinating realms of **Computer Science and Economics** as an undergraduate <br/>
-- 🥷 &nbsp; Ninja-level skills in Software Development ❗❗<br/>
+- 🥷 &nbsp; Ninja-level skills in **Software Development** ❗❗<br/>
 - 👾 &nbsp; Venturing into the exciting, creative universe of **Game Development** 🎮
 - 🔗 &nbsp; Want to learn more about my professional experiences? Take a look at my [Personal Portfolio](https://ea3onwong.github.io/) 
 
