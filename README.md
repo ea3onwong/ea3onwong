@@ -1,12 +1,16 @@
 <h1 align="center"> Hi there, I'm Eason <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> </h1>
 
 
-### 🙋‍♂️ &nbsp;**About Me:** 
-- 👨‍🎓 &nbsp; I'm **Computer Science & Economics** undergraduate <br/>
-- 👾 &nbsp; I'm interested in **software engineering and game development❗❗** <br/>
-- 🔗 &nbsp; Here's my [portfolio](https://ea3onwong.github.io/) &nbsp;
+### 🙋‍♂️ &nbsp;**About me** 
+- 👨‍🎓 &nbsp; Currently delving into the fascinating realms of **Computer Science and Economics** as an undergraduate <br/>
+- 👻 &nbsp; Proficient in **Software Development**—prioritizing efficiency, clean code, and exceptional user experience in my solutions❗❗<br/>
+- 👾 &nbsp; Venturing into the exciting, creative universe of **Game Development** 🎮
+- 🧩 &nbsp; Committed to continuous learning and keeping abreast with emerging technologies <br/>
+- 🔗 &nbsp; Curious about my professional journey and experiences? Feel free to explore my [Personal Portfolio](https://ea3onwong.github.io/) 
 
-### 🚀 &nbsp;**Skills:** 
+
+
+### 🚀 &nbsp;**Skills** 
 <p align="left">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> &nbsp;
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> &nbsp;
