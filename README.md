@@ -2,7 +2,7 @@
 
 
 ### 🙋‍♂️ &nbsp;**About me** 
-- 🎓 &nbsp; I am studying **Computer Science and Economics** <br/>
+- 🎓 &nbsp; I am studying **Computer Science and Economics** at UNSW <br/>
 - 👾 &nbsp; I am passionate about **Software Development** and **Game Development** ❗❗<br/>
 - 🔗 &nbsp; Want to know more about me? Check out my [Portfolio Website](https://ea3onwong.github.io/) ⏎
 
