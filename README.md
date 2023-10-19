@@ -4,9 +4,9 @@
 
 ### 🙋‍♂️ &nbsp;**About me** 
 - 🎓 &nbsp; Currently pursuing a double degree in **Computer Science and Economics** at UNSW Sydney <br/>
-- 👾 &nbsp; Fueled by real-world coding experiences, I'm revving up to accelerate into a career as a ***Software Engineer*** <br/>
+- 👾 &nbsp; Fueled by real-world coding experiences, revving up to accelerate into a career as a ***Software Engineer*** <br/>
 - 📨 &nbsp; Reach me at wong.eason@outlook.com for collaborations, chats, or code duels❗❗<br/>
-- 🔗 &nbsp; Want to know more about me? Explore my journey and works on my [Portfolio Website](https://ea3onwong.github.io/) ⏎
+- 🔗 &nbsp; Want to know more about me? Take a moment to explore my [Portfolio Website](https://ea3onwong.github.io/) ⏎
 
 
 ### 🚀 &nbsp;**Skills** 
