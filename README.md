@@ -3,7 +3,7 @@
 
 
 ### 🙋‍♂️ &nbsp;**About me** 
-- 🎓 &nbsp; Recently graduated with a double degree in **Computer Science and Economics** from UNSW Sydney <br/>
+- 🎓 &nbsp; Graduated with a double degree in **Computer Science and Economics** from UNSW Sydney <br/>
 - 💻 &nbsp; Fueled by real-world coding experiences, now thriving as a ***Software Engineer*** <br/>
 - 📨 &nbsp; Reach me at wong.eason@outlook.com for project inquiries, collaborations or even just chats 💬<br/>
 - 🔗 &nbsp; Want to know more about me? Check out my [Portfolio Website](https://ea3onwong.github.io/) ❗❗
